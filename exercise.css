@@ -5,4 +5,6 @@
 }
 .container {
   border: 1px solid red;
+  max-width: 1200px;
+  margin: 1rem auto;
 }
