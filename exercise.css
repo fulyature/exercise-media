@@ -8,3 +8,9 @@
   max-width: 1200px;
   margin: 1rem auto;
 }
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
